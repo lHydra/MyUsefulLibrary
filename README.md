@@ -23,9 +23,12 @@ Collection of useful links for learning Ruby and Rails
 
 * Ruby community linkblog - http://www.rubyflow.com/
 
+## Blogs
+
+* Yegor's blog about computers - https://www.yegor256.com/
+
 ## Jobs
 
 * Russian Ruby on Rails jobs board - http://www.rubyjobs.ru/
 
 * Freelance - https://www.upwork.com/
-
